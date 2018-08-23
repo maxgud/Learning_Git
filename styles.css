@@ -10,6 +10,11 @@
 .hide {
 	display: none;
 }
+.bigger {
+	height: 100;
+	width: 400px;
+	background-color: pink;
+}
 
 /*
 MODERN CSS
