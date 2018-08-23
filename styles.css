@@ -10,10 +10,17 @@
 .hide {
 	display: none;
 }
-.bigger {
-	height: 100;
-	width: 400px;
-	background-color: pink;
+
+#game-area{
+	display: flex;
+}
+
+.box {
+	height: 200px;
+	width: 200px;
+	background-color: blue;
+	margin: 50px;
+	cursor: pointer;
 }
 
 /*
