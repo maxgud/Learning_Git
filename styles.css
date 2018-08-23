@@ -1,0 +1,19 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.center {
+	text-align: center;
+}
+
+.hide {
+	display: none;
+}
+
+/*
+MODERN CSS
+flexbox
+css-grid
+
+*/
